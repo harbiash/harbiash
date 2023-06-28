@@ -2,24 +2,17 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong focus on web development, with a Backend (BE) emphasis. I thrive on building robust and user-friendly applications that leave a positive impact. Here's a little bit about me:
 
-## **🔧 Skills & Expertise**
-
-- **Languages:** C#, C++, JavaScript, TypeScript
-- **Frontend:** Vue.js, Angular
-- **Backend:** .NET, Node.js
-- **Databases:** SQL, Redis, MongoDB, CosmosDB
-- **Cloud Platforms:** Microsoft Azure, AWS
-- **DevOps:** Docker, Kubernetes
 
 ## **🌱 Journey So Far**
 
 Throughout my career, I've had the opportunity to work on a wide range of projects, gaining invaluable experience and honing my skills. Here are some highlights:
 
-- Developed and maintained scalable web applications using modern JavaScript frameworks like Vue.js and Angular. 🖥️
-- Implemented efficient and secure backend systems utilizing Node.js and Express.js. 🌐
+- Developed and maintained scalable web applications using .NET Core and modern JavaScript frameworks like Vue.js and Angular. 🖥️
+- Implemented efficient and secure backend systems utilizing .NET Core. 🌐
 - Worked extensively with various databases, including SQL, Redis, MongoDB, and CosmosDB, ensuring data integrity and optimal performance. 📊
 - Leveraged Microsoft Azure for cloud-based deployments and utilized its services to enhance application functionalities. ☁️
 - Embraced containerization with Docker and orchestration with Kubernetes to streamline the deployment and management of applications. 🐳
+- AND MORE ....
 
 ## **🚀 Passion & Approach**
 
