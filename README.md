@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong focus on web development, specializing in Full Stack with a Backend (BE) emphasis. I thrive on building robust and user-friendly applications that leave a positive impact. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong focus on web development, with a Backend (BE) emphasis. I thrive on building robust and user-friendly applications that leave a positive impact. Here's a little bit about me:
 
 ## **🔧 Skills & Expertise**
 
