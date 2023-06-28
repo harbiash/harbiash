@@ -29,7 +29,7 @@ I'm passionate about creating elegant and maintainable code that delivers except
 
 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. I'm always open to collaboration and discussing new ideas. Connect with me on:
 
-- **GitHub:** [YourGitHubUsername](https://github.com/harbiash)
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/arbias-hetemaj-548aa492)
+- **GitHub:** [harbiash](https://github.com/harbiash)
+- **LinkedIn:** [Arbias Hetemaj](https://www.linkedin.com/in/arbias-hetemaj-548aa492)
 
 Thanks for stopping by and taking the time to explore my profile. I look forward to connecting with you! 😄
